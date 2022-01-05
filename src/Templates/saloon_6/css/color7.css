@@ -1,0 +1,224 @@
+::selection {
+    background: #08ad9f;
+    color: #fff;
+}
+::-moz-selection {
+    background: #08ad9f;
+    /* Firefox */
+    
+    color: #fff;
+}
+.tags a:hover {
+    color: #08ad9f;
+}
+li.current_page_item a {
+    color: #08ad9f !important;
+}
+.ds_navigation_menu ul.menu > li > a:hover {
+    text-decoration: none;
+    color: #08ad9f;
+}
+.appointment_btn a {
+    background-color: #08ad9f;
+}
+.appointment_btn a:hover {
+    color: #08ad9f;
+}
+button.navbar_toggle i.fa {
+    color: #08ad9f;
+}
+h2.block_title:before {
+    background: #08ad9f;
+}
+.price_right {
+    color: #08ad9f;
+}
+.panel_body a {
+    color: #08ad9f;
+}
+.panel_default h4.panel-title:hover {
+    color: #08ad9f;
+}
+.infotextwrap {
+    background: #08ad9f;
+}
+.testimonial_author {
+    color: #08ad9f;
+}
+.titleborderOut .titleborder:after,
+.slides_times li.ds_wtime {
+    background: #08ad9f;
+}
+.ds_description a {
+    color: #08ad9f;
+}
+.ds_social a i.fa:hover {
+    background: #08ad9f;
+}
+#copyright a {
+    color: #08ad9f;
+}
+.footer_button a {
+    background: #08ad9f;
+}
+.opening_times li .time {
+    color: #08ad9f;
+}
+.bottom_tab h3:hover {
+    background: #08ad9f;
+}
+.slide_anchor {
+    background-color: #08ad9f;
+}
+.playfontbold {
+    Color: #08ad9f !important;
+    border-bottom: 3px solid #08ad9f !important;
+    border-top: 3px solid #08ad9f !important;
+}
+.pagecontent .ds_pagecontentContent_title h1:after {
+    background: #08ad9f;
+}
+.single-portfolio-skils ul li i {
+    color: #08ad9f;
+}
+.project_section .link a {
+    background: #08ad9f;
+}
+.ds_pagecontentContent_breadcrumb span {
+    color: #08ad9f;
+}
+.ds_entry h2.title:before {
+    background: #08ad9f;
+}
+.ds_blogpostcategory .blogmore,
+.blogmore {
+    background: #08ad9f;
+}
+.ds_widgett .wttitle h4 a:hover {
+    color: #08ad9f;
+}
+.widget a:hover {
+    color: #08ad9f !important;
+}
+.ds_tagcloud a {
+    background: #08ad9f;
+}
+.sidebar_toogle {
+    background-color: #08ad9f;
+    box-shadow: 1px 0px 7px 1px #08ad9f;
+}
+ul.blog_ul li:hover {
+    background-color: #08ad9f;
+}
+.blog_ul li.active {
+    background-color: #08ad9f;
+}
+.post_meta_title:hover {
+    color: #08ad9f;
+}
+a.read_more {
+    background-color: #08ad9f;
+}
+.paginations span,
+.paginations a {
+    color: #08ad9f;
+}
+.paginations .current {
+    background: #08ad9f;
+}
+.pmc_aoute_of:hover {
+    border-left: 4px solid #08ad9f;
+}
+.pmc_blocks:hover .pmc_icon_border {
+    background: #08ad9f;
+}
+.pmc_icon i {
+    background: #08ad9f;
+    border: 4px solid #05776d;
+}
+.conclusion h2:before {
+    background: #08ad9f;
+}
+.ds_related .image:hover {
+    background-color: #08ad9f;
+}
+#submit_frm:hover {
+    background: #08ad9f;
+}
+.panel_default_toggle .panel-heading:hover .panel-title:before {
+    background: #08ad9f;
+}
+.panel_default_toggle .panel-heading:hover .panel-title .collapsed:before {
+    background: #08ad9f;
+}
+.counter_icon i.fa {
+    font-size: 4em;
+    color: #08ad9f;
+}
+.ds_counter:hover .pmc_counter_border {
+    width: 100px;
+    background: #08ad9f;
+}
+.btn_color1 {
+    background-color: #08ad9f;
+    border-color: #08ad9f;
+}
+.icon_bg {
+    background-color: #08ad9f;
+    border-color: #08ad9f;
+}
+.table_darkgreen {
+    background-color: #08ad9f;
+}
+.submit_frm {
+    background-color: #08ad9f !important;
+}
+.submit_btn {
+    background-color: #08ad9f !important;
+}
+.sub-menu {
+    background: rgba(8, 173, 159, 0.95);
+}
+.goto_real {
+    color: #08ad9f;
+}
+.contact li i.fa {
+    color: #08ad9f;
+    margin-right: 10px;
+}
+.info a {
+    background-color: #08ad9f;
+}
+.ui-tabs-vertical .ui-tabs-nav li:hover {
+    background-color: #08ad9f;
+}
+.ui-state-active,
+.ui-widget-content .ui-state-active,
+.ui-widget-header .ui-state-active {
+    background-color: #08ad9f;
+}
+.tagcloud a:hover {
+    color: #fff !important;
+}
+.slider_main .bx-controls-direction a {
+    background-color: #08ad9f;
+}   
+#style-switcher .bottom a.settings i {
+    color: #08ad9f;
+}
+.ih-item.circle.effect1 .spinner {
+    border-right-color: #08ad9f;
+    border-bottom-color: #08ad9f;
+}
+.services-hide .Doller_c {
+    color: #08ad9f;
+}
+.magenta_color {
+	color: #08ad9f !important;
+}
+.magenta_color_bg {
+	background-color: #08ad9f !important;
+}
+.magenta_color_shadow {
+	text-shadow: #08ad9f 2px 4px 7px !important;
+}
